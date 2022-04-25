@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Fries Box",
+    "Engredients": "",
+    "Price": 600
+  },
+  {
+    "Name": "Meat Sambusek",
+    "Engredients": "5 PCS",
+    "Price": 800
+  },
+  {
+    "Name": "Cheese Rolls",
+    "Engredients": "5 PCS",
+    "Price": 1000
+  },
+  {
+    "Name": "Ishli Kufta",
+    "Engredients": "4 PCS",
+    "Price": 1200
+  },
+  {
+    "Name": "Basturma Cheese Rolls",
+    "Engredients": "5 PCS",
+    "Price": 1500
+  }
+]

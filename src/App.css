@@ -1,0 +1,133 @@
+
+
+.App {
+  text-align: center;
+  font-size: small;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  /* background-color: #EDE7DB; 282c34 */
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  font-size: small;
+}
+
+.resto-name {
+  color: #8E3129;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.btn-bite {
+  color: #f8f9fa;
+  background-color: #8E3129;
+  border-color: #f8f9fa;
+}
+
+.btn-bite :active {
+  color: #f8f9fa;
+  background-color: #8E3129;
+  border-color: #f8f9fa;
+}
+
+.btn-bite:hover {
+  color: #f8f9fa;
+}
+
+.btn-outline-bite {
+  color: #8E3129;
+  border-color: #8E3129;
+}
+
+.btn .btn-outline-bite:active {
+    color: #f8f9fa;
+    background-color: #8E3129 !important;
+    border-color: #8E3129;
+}
+
+.btn-outline-bite:hover {
+  color: #f8f9fa;
+  background-color: #8E3129;
+  border-color: #f8f9fa;
+}
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-bite {
+  background-color: #8E3129 !important;
+  color: #f8f9fa !important;
+}
+
+.border-bite {
+  border-color: #8E3129!important;
+}
+
+.color-bite {
+  color: #8E3129!important;
+}
+
+
+.icon-bite {
+  font-size: 1.8rem; 
+  color: #8E3129;
+}
+
+.category {
+  text-transform:capitalize;
+}
+
+.social-icon {
+  font-size: 1.2rem; 
+}
+
+.color-fb {
+  color: #4267B2;
+}
+
+.color-insta {
+  color: #C13584;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+@media only screen and (min-width: 600px) {
+  .container-desktop {
+    width: 100%;
+    padding-right: 25.75rem;
+    padding-left: 25.75rem;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}

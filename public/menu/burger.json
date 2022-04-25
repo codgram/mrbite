@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Lebanese Burger",
+    "Engredients": "Beef patty, mixed cabbage, fries, pickles, ketchup,mayonnaise",
+    "Price": 1250
+  },
+  {
+    "Name": "Classic Burger",
+    "Engredients": "Beef patty, onion, pickles, tomato, lettuce, mayonnaise,ketchup, musterd",
+    "Price": 1250
+  }
+]

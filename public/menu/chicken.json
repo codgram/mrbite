@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Chicken Liver",
+    "Engredients": "Submarine, bread, lettuce, pickles, mint, lemon, garlic sauce",
+    "Price": 1200
+  },
+  {
+    "Name": "Chicken Shawerma",
+    "Engredients": "Loshig bread, pickles, lettuce, fries, garlic sauce",
+    "Price": 1200
+  }
+]

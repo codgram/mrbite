@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Hummus Sandwich",
+    "Engredients": "Submarine bread, hummus, pickles, tomato, fresh mint, cummin, olive oil",
+    "Price": 600
+  },
+  {
+    "Name": "Potato Kanachi",
+    "Engredients": "Loshig Bread, mixed greens, tomato, pickles, mayonnaise, ketchup",
+    "Price": 800
+  }
+]

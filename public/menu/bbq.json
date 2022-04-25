@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Beef Kebab",
+    "Engredients": "Loshig bread, mixed onions and parsley, tomato, pickles",
+    "Sandwich": 1200,
+    "Platter": 2400,
+    "1/2KG": 5300
+  },
+  {
+    "Name": "Tawouk",
+    "Engredients": "Loshig bread, pickles, fries mixed cabage with garlic mayo sauce",
+    "Sandwich": 1100,
+    "Platter": 2200,
+    "1/2KG": 5000
+  }
+]
