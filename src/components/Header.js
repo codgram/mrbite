@@ -5,7 +5,7 @@ import * as React from 'react';
 function Header({parentToChild}) {
 
   const Language = () => {
-    if(parentToChild == "am") {
+    if(parentToChild === "am") {
       return(
         <div class="col-3 text-end d-flex justify-content-between mt-2">
           <a href="/menu/en"><img src="../icons/usa.png" height="24px" /></a>
@@ -14,7 +14,7 @@ function Header({parentToChild}) {
         </div>
       )
     }
-    if(parentToChild == "en") {
+    if(parentToChild === "en") {
       return(
         <div class="col-3 text-end d-flex justify-content-between mt-2">
           <a href="/menu/en"><img class="rounded border border-2 border-bite rounded-circle" src="../icons/usa.png" height="26px" /></a>
@@ -23,7 +23,7 @@ function Header({parentToChild}) {
         </div>
       )
     }
-    if(parentToChild == "ru") {
+    if(parentToChild === "ru") {
       return(
         <div class="col-3 text-end d-flex justify-content-between mt-2">
           <a href="/menu/en"><img src="../icons/usa.png" height="26px" /></a>
