@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mrbite/static/css/main.6823866d.css",
+    "main.js": "/mrbite/static/js/main.6aca8109.js",
+    "static/js/787.144d0762.chunk.js": "/mrbite/static/js/787.144d0762.chunk.js",
+    "static/media/logo.svg": "/mrbite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mrbite/index.html",
+    "main.6823866d.css.map": "/mrbite/static/css/main.6823866d.css.map",
+    "main.6aca8109.js.map": "/mrbite/static/js/main.6aca8109.js.map",
+    "787.144d0762.chunk.js.map": "/mrbite/static/js/787.144d0762.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6823866d.css",
+    "static/js/main.6aca8109.js"
+  ]
+}
