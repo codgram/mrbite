@@ -1,22 +1,32 @@
 [
   {
-    "Name": "Summer Salad",
+    "Name": "SUMMER SALAD",
     "Engredients": "",
-    "Price": 1000
+    "Price": 1500
   },
   {
-    "Name": "Taboule",
+    "Name": "TABOULE",
     "Engredients": "",
-    "Price": 1100
+    "Price": 1500
   },
   {
-    "Name": "Fattoush",
+    "Name": "FATTOUSH",
+    "Engredients": "",
+    "Price": 1700
+  },
+  {
+    "Name": "BEEF TONGUE SALAD",
+    "Engredients": "",
+    "Price": 2100
+  },
+  {
+    "Name": "EGGPLANT SALAD",
     "Engredients": "",
     "Price": 1200
   },
   {
-    "Name": "Beef Tongue Salad",
+    "Name": "COLESLAW SALAD",
     "Engredients": "",
-    "Price": 1700
+    "Price": 1000
   }
 ]

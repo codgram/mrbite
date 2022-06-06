@@ -1,12 +1,37 @@
 [
   {
-    "Name": "Chicken Liver",
-    "Engredients": "Submarine, bread, lettuce, pickles, mint, lemon, garlic sauce",
-    "Price": 1200
+    "Name": "CHICKEN LIVER",
+    "Engredients": "Submarine bread, lettuce, pickles, mint, lemon, garlic sauce",
+    "Price": 1400
   },
   {
-    "Name": "Chicken Shawerma",
-    "Engredients": "Loshig bread, pickles, lettuce, fries, garlic sauce",
-    "Price": 1200
+    "Name": "CHICKEN SHAWERMA",
+    "Engredients": "Arabic bread, pickles, lettuce, fries, garlic sauce",
+    "Price": 1400
+  },
+  {
+    "Name": "FRANSISCO",
+    "Engredients": "Submarine bread, chicken breast, lettuce, mozarella cheese, pickles, corns, mayonnaise, soya sauce",
+    "Price": 1600
+  },
+  {
+    "Name": "FAJITA",
+    "Engredients": "Submarine bread, chicken breast, onions, bell peppers, lettuce, pickles, mayonnaise",
+    "Price": 1600
+  },
+  {
+    "Name": "CHILLY",
+    "Engredients": "Submarine bread, chicken breast marinated with chilly paste, loettuce, pickles, mustard, garlic mayo sauce",
+    "Price": 1600
+  },
+  {
+    "Name": "MR. Bite SANDWICH",
+    "Engredients": "Submarine bread, chicken breast marinated with with wine, mixed with onions, mozarella cheese, pickles, lettuce",
+    "Price": 1900
+  },
+  {
+    "Name": "CHICKEN KANACHI",
+    "Engredients": "Submarine bread, chicken breast marinated with chilly paste and coriander, garlic sauce, pickles, lettuce, mayo, mustard",
+    "Price": 1400
   }
 ]

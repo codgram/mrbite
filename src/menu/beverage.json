@@ -1,21 +1,16 @@
 [
   {
-    "Name": "Water",
+    "Name": "WATER",
     "Engredients": "",
     "Price": 250
   },
   {
-    "Name": "Jermuk",
+    "Name": "JERMUK",
     "Engredients": "",
     "Price": 300
   },
   {
-    "Name": "Soft Drink",
-    "Engredients": "",
-    "Price": 350
-  },
-  {
-    "Name": "Juices",
+    "Name": "SOFT DRINK",
     "Engredients": "",
     "Price": 300
   }

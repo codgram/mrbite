@@ -26,7 +26,10 @@ export default function Menu () {
             <DisplayMenu menu="burger" isMultiPrice="false"/>
           </div>
           <div class="col-12">
-            <DisplayMenu menu="bbq" isMultiPrice="true"/>
+            <DisplayMenu menu="bbq" isMultiPrice="false"/>
+          </div>
+          <div class="col-12">
+            <DisplayMenu menu="platter" isMultiPrice="true"/>
           </div>
           <div class="col-12">
             <DisplayMenu menu="salad" isMultiPrice="false"/>
@@ -36,6 +39,9 @@ export default function Menu () {
           </div>
           <div class="col-12">
             <DisplayMenu menu="beverage" isMultiPrice="false"/>
+          </div>
+          <div class="col-12">
+            <DisplayMenu menu="sweet" isMultiPrice="false"/>
           </div>
           
           

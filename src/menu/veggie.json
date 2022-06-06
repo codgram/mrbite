@@ -1,12 +1,17 @@
 [
   {
-    "Name": "Hummus Sandwich",
+    "Name": "HUMMUS SANDWICH",
     "Engredients": "Submarine bread, hummus, pickles, tomato, fresh mint, cummin, olive oil",
-    "Price": 600
+    "Price": 900
   },
   {
-    "Name": "Potato Kanachi",
-    "Engredients": "Loshig Bread, mixed greens, tomato, pickles, mayonnaise, ketchup",
-    "Price": 800
+    "Name": "POTATO KANACHI",
+    "Engredients": "Arabic bread, mixed greens, tomato, pickles, mayonnaise, ketchup",
+    "Price": 1200
+  },
+  {
+    "Name": "FRIES SANDWICH",
+    "Engredients": "Arabic bread, pickles, mixed cabbagewith garlic mayo sauce, ketchup",
+    "Price": 900
   }
 ]

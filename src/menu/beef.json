@@ -1,14 +1,27 @@
 [
   {
-    "Name": "Beef Tongue",
-    "Engredients": "Submarine bread, lettuce, pickles, mint, lemon garlic",
-    "IsChilli": "No",
-    "Price": 1500
+    "Name": "BEEF TONGUE",
+    "Engredients": "Submarine bread, pickles, lettuce, mint, lemon garlic",
+    "Price": 1600
   },
   {
-    "Name": "Soujouk Bite",
-    "Engredients": "Submarine bread, lettuce, pickles, mint, lemon garlic",
-    "IsChilli": "Yes",
-    "Price": 1400
+    "Name": "SOUJOUK BITE",
+    "Engredients": "Submarine bread, soujouk grilled with tomato, onion,  bell pepper and chilly",
+    "Price": 1600
+  },
+  {
+    "Name": "ROSTO SANDWICH",
+    "Engredients": "Submarine bread, tomato, pickles, lettuce, mint, mayonnaise, mustard",
+    "Price": 1650
+  },
+  {
+    "Name": "BEEF SHAWERMA",
+    "Engredients": "Arabic bread, mixed onions and parsley, tomato, pickles, tahini sauce",
+    "Price": 1600
+  },
+  {
+    "Name": "PHILLY STEAK",
+    "Engredients": "Submarine bread, onions, bell perppers, tomato, pickles, lettuce, special philly sauce",
+    "Price": 1800
   }
 ]

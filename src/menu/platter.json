@@ -1,0 +1,44 @@
+[
+    {
+      "Name": "BEEF KEBAB",
+      "Engredients": "Arabic bread, mixed onions and parsley, pickles, grilled vegetables",
+      "Platter": 3200,
+      "1/2KG": 6500
+    },
+    {
+      "Name": "TAWOUK",
+      "Engredients": "Arabic bread, pickles, fries, mixed cabbage with garlic mayo sauce",
+      "Platter": 3000,
+      "1/2KG": 6000
+    },
+    {
+      "Name": "BEEF IKI BIR",
+      "Engredients": "Arabic bread, mixed onions and parsley, pickles, grilled vegetables",
+      "Platter": 3600,
+      "1/2KG": 7000
+    },
+    {
+      "Name": "KEBAB WITH EGGPLANT",
+      "Engredients": "Arabic bread, mixed onions and parsley, pickles, grilled vegetables",
+      "Platter": 4000,
+      "1/2KG": 70000
+    },
+    {
+      "Name": "BBQ MIXED PLATTER",
+      "Engredients": "1 beef kebab, 1 tawouk, 1 beef iki bir, 1 kebab with eggplant",
+      "Platter": 5000,
+      "1/2KG": ""
+    },
+    {
+      "Name": "HUMMUS PLATTER",
+      "Engredients": "",
+      "Platter": 1100,
+      "1/2KG": ""
+    },
+    {
+      "Name": "POTATO KANACHI",
+      "Engredients": "Batata Harra",
+      "Platter": 1500,
+      "1/2KG": ""
+    }
+  ]

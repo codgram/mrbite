@@ -1,12 +1,32 @@
 [
   {
-    "Name": "Lebanese Burger",
-    "Engredients": "Beef patty, mixed cabbage, fries, pickles, ketchup,mayonnaise",
-    "Price": 1250
+    "Name": "LEBANESE BURGER",
+    "Engredients": "Beef patty, mixed cabbage, fries, pickles, ketchup, mayonnaise",
+    "Price": 1400
   },
   {
-    "Name": "Classic Burger",
-    "Engredients": "Beef patty, onion, pickles, tomato, lettuce, mayonnaise,ketchup, musterd",
-    "Price": 1250
+    "Name": "CLASSIC BURGER",
+    "Engredients": "Beef patty, onion, pickles, tomato, lettuce, mayonnaise, ketchup, mustard",
+    "Price": 1400
+  },
+  {
+    "Name": "ORIENTAL BURGER",
+    "Engredients": "Kafta patty, hummus, tomato, mixed onions and coriande, lettuce, pickles",
+    "Price": 1500
+  },
+  {
+    "Name": "FULL FAT CHICKEN",
+    "Engredients": "Breaded chicken breast, fries, pickles, mixed cabbage with garlic mayo sauce, ketchup",
+    "Price": 1600
+  },
+  {
+    "Name": "TITIZ BURGER",
+    "Engredients": "Chicken breast, lettuce, tomato, fries, pickles, mayonnaise, garlic sauce",
+    "Price": 1500
+  },
+  {
+    "Name": "LOURJES ASOUM",
+    "Engredients": "Beef patty rolled with basturma, tomato, pickles, lettuce, cheese, chilli, mayonnaise, mustard",
+    "Price": 2000
   }
 ]

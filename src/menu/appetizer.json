@@ -1,27 +1,27 @@
 [
   {
-    "Name": "Fries Box",
+    "Name": "FRIES BOX",
     "Engredients": "",
-    "Price": 600
+    "Price": 700
   },
   {
-    "Name": "Meat Sambusek",
-    "Engredients": "5 PCS",
-    "Price": 800
-  },
-  {
-    "Name": "Cheese Rolls",
-    "Engredients": "5 PCS",
-    "Price": 1000
-  },
-  {
-    "Name": "Ishli Kufta",
-    "Engredients": "4 PCS",
+    "Name": "MEAT SUMBUSIK",
+    "Engredients": "5 pcs",
     "Price": 1200
   },
   {
-    "Name": "Basturma Cheese Rolls",
-    "Engredients": "5 PCS",
+    "Name": "CHEESE ROLLS",
+    "Engredients": "5 pcs",
     "Price": 1500
+  },
+  {
+    "Name": "ISHLI KIFTA",
+    "Engredients": "5 pcs",
+    "Price": 1250
+  },
+  {
+    "Name": "BASTURMA CHEESE ROLLS",
+    "Engredients": "5 pcs",
+    "Price": 1800
   }
 ]
